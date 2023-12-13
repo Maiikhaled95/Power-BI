@@ -1,3 +1,5 @@
+What I did on this project on Power BI
+
 •	Imported all the CSV datasets to Power BI, making sure that all the columns were correctly formatted as text, numbers, and dates according to the metadata sheet and connected all the data dimensions to the fact table through a model view.
 •	I started exploring the dataset to get the active, inactive, and total employees by department and calculate the attrition rate.
 •	Then, I turned to investigate and analyze the demographics of employees like Age, Marital Status, Gender, ethnicity, and Salary and track the performance and Rating of employees.
